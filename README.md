@@ -20,5 +20,5 @@ make vpksend
 ```
 
 # Screenshots
-![s1](Vita-Landscape-Generator/screenshots/s.jpg)
-![s2](Vita-Landscape-Generator/screenshots/s1.jpg)
+![s1](screenshots/s.jpg)
+![s2](screenshots/s1.jpg)
